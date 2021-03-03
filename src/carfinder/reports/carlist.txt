@@ -1,0 +1,31 @@
+Cars found: 3
+Found cars: 
+
+1
+Make: Opel
+Model: Astra
+Color: Green
+State: Factory New
+License: K12-B-777
+Owner: unknown, 20
+
+
+2
+Make: TestCar
+Model: Model
+Color: White
+State: Decent
+License: A00-A-000
+Owner: unknown, 20
+
+
+3
+Make: Tesla
+Model: X
+Color: Blue
+State: Old
+License: K11-B-333
+Owner: Adnan Mujagic, 20
+
+
+--End--
